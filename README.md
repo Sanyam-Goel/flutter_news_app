@@ -27,10 +27,29 @@ To get started with this project, follow these steps:
 * Run flutter pub get to install the required dependencies.
 
 <hr/>
-![1p](https://github.com/Sanyam-Goel/flutter_news_app/assets/116114332/e5f7bdc9-2824-4740-85ae-bfec2a44b490)
-![2p](https://github.com/Sanyam-Goel/flutter_news_app/assets/116114332/e2dfe82d-7ae2-47ce-bb3b-7f730365c398)
-![3p](https://github.com/Sanyam-Goel/flutter_news_app/assets/116114332/f4763601-e350-4443-a9de-346af7a9315f)
-![4p](https://github.com/Sanyam-Goel/flutter_news_app/assets/116114332/4836c725-ab0a-4834-97cd-02410f884bb0)
-![5p](https://github.com/Sanyam-Goel/flutter_news_app/assets/116114332/a53fb9c1-4133-42c5-ae95-f3bc5ab92e3f)
-![6p](https://github.com/Sanyam-Goel/flutter_news_app/assets/116114332/5f9ff9ed-bcdb-4233-9985-a2ff83d2c5cb)
+
+<table style="border: 1px solid black;">
+            <tr>
+                <td  style="border: 1px solid black ;">
+                    <img src="https://github.com/Sanyam-Goel/flutter_news_app/assets/116114332/e5f7bdc9-2824-4740-85ae-bfec2a44b490"   width="200">
+                </td>
+                <td  style="border: 1px solid black ;">
+                    <img src="https://github.com/Sanyam-Goel/flutter_news_app/assets/116114332/e2dfe82d-7ae2-47ce-bb3b-7f730365c398"   width="200">
+                </td>
+                <td  style="border: 1px solid black ;">
+                    <img src="https://github.com/Sanyam-Goel/flutter_news_app/assets/116114332/f4763601-e350-4443-a9de-346af7a9315f"   width="200">
+                </td>
+            </tr>
+            <tr>
+                <td  style="border: 1px solid black ;">
+                    <img src="https://github.com/Sanyam-Goel/flutter_news_app/assets/116114332/4836c725-ab0a-4834-97cd-02410f884bb0"   width="200">
+                </td>
+                <td  style="border: 1px solid black ;">
+                    <img src="https://github.com/Sanyam-Goel/flutter_news_app/assets/116114332/a53fb9c1-4133-42c5-ae95-f3bc5ab92e3f"   width="200">
+                </td>
+                <td  style="border: 1px solid black ;">
+                    <img src="https://github.com/Sanyam-Goel/flutter_news_app/assets/116114332/5f9ff9ed-bcdb-4233-9985-a2ff83d2c5cb"   width="200">
+                </td>
+            </tr>
+        </table>
 
